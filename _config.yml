@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Psychiana Demo Collection
+title: From Minorca to Florida
 # tagline a short phrase that will appear throughout the site in the top banner
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
@@ -34,7 +34,7 @@ author: CollectionBuilder
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQMzyVLEpQYNCYxsrS1RcHJWpDJSiHTQKZ5rUQlWoI3rrKRkutyqgZNLFMkxTLiFB1WKDrlR_J-Xo_G/pub?output=csv
 
 ##########
 # Site/Organization Branding 
