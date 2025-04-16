@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: From Minorca to Florida
 # tagline a short phrase that will appear throughout the site in the top banner
-tagline: First steps for my digital exhibits
+tagline: A Digital Archive of Diaspora and Memory in St. Augustine
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "digital project dedicated to documenting the Minorcan presence in St. Augustine, Florida. In 1768, over 1,400 Mediterranean settlers—among whom the largest group came from the island of Minorca—were brought to Florida by Andrew Turnbull to establish an agricultural colony in New Smyrna. Once there, they were subjected to harsh conditions and forced into indentured labor. After nearly a decade, the colony collapsed, and in 1777, the surviving settlers walked almost 70 miles north to St. Augustine. There, they petitioned British governor Patrick Tonyn for refuge and were allowed to settle permanently, forming a lasting community. The project aims to gather and digitally preserve primary documents—many of them housed across various cultural institutions in St. Augustine—that trace this diasporic journey, settlement, and cultural memory."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Susanna Alles-Torrent
 
@@ -41,8 +41,8 @@ metadata: CB_minorcans
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+# organization-name: "University of Miami"
+# organization-link: https://dh.miami.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
