@@ -1,14 +1,5 @@
 display_name,stub,dropdown_parent
 Inicio,/
-<<<<<<< HEAD
-Navegar,/navegar.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
-Data,/data.html
-About,/about.html
-=======
 Navegar,/browse.html
 Temas,/subjects.html
 Lugares,/locations.html
@@ -16,4 +7,3 @@ Mapa,/map.html
 Cronología,/timeline.html
 Datos,/data.html
 Acerca de,/about.html
->>>>>>> 52226aa517dde5195667f6ae082c801d37be167d
